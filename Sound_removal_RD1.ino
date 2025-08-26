@@ -11,7 +11,7 @@
 #define enablem 12
 
 void stopMotor();  //WORKING WITHOUT BATCH FILE
-void startMotor();
+void startMotor(); //WORKING WITHOUT BATCH FILE 2
 void stepperPulse();
 void prime_anima();
 
