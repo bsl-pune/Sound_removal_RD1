@@ -10,7 +10,7 @@
 #define M2 8
 #define enablem 12
 
-void stopMotor();
+void stopMotor();  //WORKING WITHOUT BATCH FILE
 void startMotor();
 void stepperPulse();
 void prime_anima();
